@@ -19,6 +19,8 @@ The dataset (`XPE-Memory-DS.csv`) is a high-fidelity benchmark generated from th
 3. Run the generator: `python src/pipeline_generator.py`
 
 ## Citation
+10.5281/zenodo.21457507
+
 @article{lotfi2026xpe,
   title={XPE-Memory: An Explainable, Time-Aware AI Architecture for Zero-Day Memory Malware Detection},
   author={Ahmed Lotfi, Ahmed Maher, Mohamed Abdelmonem Elshafei},
